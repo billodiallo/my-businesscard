@@ -1,0 +1,13 @@
+
+body {
+    margin: 0;
+    font-family: Inter, sans-serif;
+    height: 100vh;
+}
+
+.photo {
+    width: 317px;
+    height: 317px;
+    top: 44px;
+    left: 116px;
+}
