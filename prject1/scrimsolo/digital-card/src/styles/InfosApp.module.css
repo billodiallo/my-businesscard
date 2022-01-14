@@ -1,0 +1,41 @@
+.photo {
+    width: 317px;
+    height: 317px;
+    top: 44px;
+    left: 116px;
+    
+    
+}
+.frontend {
+    font-family: Inter;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:#F3BF99;
+
+    
+;
+}
+.info1 { 
+    display:ms-grid;
+    margin-bottom: 44px;
+    margin-top: 44px;
+    color: white;
+    text-align: center;
+    
+    
+}
+.head1{
+   font-family: Inter;
+   font-size: 25px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: 30px;
+   letter-spacing: 0em;
+   text-align: center;
+
+
+}
