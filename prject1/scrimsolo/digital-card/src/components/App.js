@@ -1,5 +1,6 @@
 import Info from "./InfosApp";
 import About from '../components/About'
+import Interest from "./Interest";
 import '../components/App.css'
 
 const  App = () => {
@@ -7,6 +8,7 @@ const  App = () => {
     <div className="App">
     <Info />
     < About/>
+    <Interest />
     </div>
   );
 }
