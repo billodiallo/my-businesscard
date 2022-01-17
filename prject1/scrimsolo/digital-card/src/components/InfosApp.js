@@ -1,7 +1,6 @@
 import macky from "../assets/profile.jpg"
 import emailLogo from "../assets/Email-logo.png"
 import linkedln from '../assets/LinkedIn-logo.png'
-import '../styles/styles.css'
 import  styleinfo from '../styles/InfosApp.module.css'
 const Info = () => {
   return (

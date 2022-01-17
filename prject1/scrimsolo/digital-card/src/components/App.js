@@ -1,8 +1,9 @@
 import Info from "./InfosApp";
+import '../components/App.css'
 
 const  App = () => {
   return (
-    <div>
+    <div className="App">
     <Info />
     </div>
   );
