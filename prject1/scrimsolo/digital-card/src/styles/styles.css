@@ -7,3 +7,10 @@ body {
 }
 
 
+
+
+.social {
+    display: flex;
+    justify-content: center;
+}
+
