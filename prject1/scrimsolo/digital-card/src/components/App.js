@@ -1,14 +1,17 @@
 import Info from "./InfosApp";
-import About from '../components/About'
+import About from './About';
 import Interest from "./Interest";
-import '../components/App.css'
+import Footer from "./Footer";
+import '../components/App.css';
 
-const  App = () => {
+
+function App() {
   return (
     <div className="App">
-    <Info />
-    < About/>
-    <Interest />
+      <Info />
+      <About />
+      <Interest />
+      <Footer />
     </div>
   );
 }

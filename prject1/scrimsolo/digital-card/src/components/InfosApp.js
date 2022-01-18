@@ -13,7 +13,7 @@ const Info = () => {
         />
       </header>
       <div className={styleinfo.bio}>
-        <h1 className={styleinfo.name}>Macky</h1>
+        <h1 className={styleinfo.name}>Billo</h1>
         <p className={styleinfo.title}>Frontend Developer</p>
         <p className={styleinfo.small}>(www.info)</p>
         <div className={styleinfo.contacts}>
