@@ -1,0 +1,36 @@
+.footer {
+  display: flex;
+  background-color: #d5d4d8;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+
+.socialMedia {
+  display: flex;
+  gap: 70px;
+  padding: 20px;
+}
+
+.socialIcons {
+  width: 30px;
+}
+
+.socialIcons:hover,
+.socialIcons:focus {
+  background-color: #a496ce;
+}
+
+.links {
+  text-decoration: none;
+  display: inline-block;
+  align-items: center;
+  border: 1px solid #d1d5db;
+  color: #374151;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 10px;
+  cursor: pointer;
+}
