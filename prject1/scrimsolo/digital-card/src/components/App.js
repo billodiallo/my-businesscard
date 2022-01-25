@@ -1,9 +1,9 @@
-import Info from "./InfosApp";
+import React from 'react';
+import Info from './InfosApp';
 import About from './About';
-import Interest from "./Interest";
-import Footer from "./Footer";
-import '../components/App.css';
-
+import Interest from './Interest';
+import Footer from './Footer';
+import './App.css';
 
 function App() {
   return (
